@@ -1,0 +1,1092 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Rubik+One&subset=latin,cyrillic);
+
+.titlepage {
+    position: absolute;
+    margin-top: -470px;
+    margin-left: 50px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+}
+
+.secondarytitle {
+    position: absolute;
+    margin-top: -435px;
+    margin-left: 50px;
+    font-family: 'Manrope';
+    color: #8E9BAE;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.UserName {
+    position: absolute;
+    font-family: 'Manrope', sans-serif;
+    font-size: 24px;
+    line-height: 33px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 200px;
+    height: 33px;
+    left: 112px;
+    top: 124px;
+}
+
+.Rectangle {
+    position: relative;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.ProfileIcon {
+    position: absolute;
+    margin-top: 125px;
+    margin-left: -1230px;
+    width: 70px;
+    cursor: pointer;
+}
+
+
+.RectNav {
+    position: absolute;
+    background-color: #F0F0F0;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    margin-top: -32px;
+    margin-left: 45px;
+}
+
+.buttonExplore {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: -30px;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+.Expl-butt-img {
+    width: 12%;
+    margin-top: 38px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+
+.dashboard {
+    width: 12%;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.dashboardButton {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: -30px;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+.mysettings {
+    width: 12%;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.mysettingsButton {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: -30px;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+.course-calendar {
+    width: 12%;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.course-calendarButton {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: -30px;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+.Users {
+    width: 1920px;
+    height: 500px;
+    left: 585px;
+    top: 36.24px;
+}
+
+.firstUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 585px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.secondUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 650px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.thirdUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 711px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.fourthUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 772px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.fifthUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 833px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.sixthUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 894px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.seventhUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 955px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.eightUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 1016px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.nineUser {
+    position: absolute;
+    width: 38px;
+    height: 39.52px;
+    left: 1077px;
+    top: 36.24px;
+    cursor: pointer;
+}
+
+.profileUser {
+    position: absolute;
+    width: 25px;
+    left: 1750px;
+    top: 40px;
+    cursor: pointer;
+}
+
+.TopHeader {
+    position: absolute;
+    width: 1350px;
+    height: 75px;
+    left: 450px;
+    top: 145px;
+
+}
+
+.Title-Top-Header {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+
+.SecondaryTitle-Top-Header {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 45px;
+    margin-left: 40px;
+    color: #8E9BAE;
+}
+
+.BorderButtonGO {
+    border-radius: 20px;
+    background-color: #462200;
+    width: 76px;
+    height: 50px;
+    margin-left: 1250px;
+}
+
+.ButtonGO {
+    font-family: Manrope;
+    font-weight: 500;
+    color: white;
+    padding-top: 14px;
+    padding-left: 27px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.BorderSearchACourse {
+    position: absolute;
+    border-radius: 20px;
+    background-color: #ECF1FC;
+    width: 305px;
+    height: 50px;
+    margin-left: 925px;
+    margin-top: -50px;
+}
+
+.BackgroundTextSAC {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 400;
+    margin-top: 13px;
+    margin-left: 50px;
+    opacity: 30%;
+}
+
+.SearchIMG {
+    position: absolute;
+    width: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.CourseNavigation {
+    position: absolute;
+    margin-left: 1375px;
+    margin-top: -725px; 
+    width: 401px;
+    height: 150px;
+}
+
+.NewCourses {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.Library {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 500;
+    margin-left: 125px;
+    font-size: 14px;
+    opacity: 30%;
+    cursor: pointer;
+}
+
+.Categories {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 500;
+    margin-left: 210px;
+    opacity: 30%;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.pricebox {
+    position: absolute;
+    border-radius: 10px;
+    background-color: #ECF1FC;
+    width: 200px;
+    height: 50px;
+    margin-top: -650px;
+    margin-left: 1375px;
+}
+
+p.txtdropdowns {
+    margin-top: 13px;
+    margin-left: 20px;
+    font-family: Manrope;
+    font-weight: 500;
+}
+
+img.imgdropdowns {
+    position: absolute;
+    width: 10px;
+    opacity: 40%;
+    margin-top: -36px;
+    margin-left: 175px;
+}
+
+.durationbox {
+    position: absolute;
+    border-radius: 10px;
+    background-color: #ECF1FC;
+    width: 200px;
+    height: 50px;
+    margin-top: -650px;
+    margin-left: 1600px;
+}
+
+.masterfigma {
+    position: absolute;
+    border-radius: 20px;
+    background-color: #E9FFF7;
+    width: 425px;
+    height: 166px;
+    margin-top: -570px;
+    margin-left: 1375px;
+}
+
+img.imgcourse {
+    position: absolute;
+    width: 50%;
+    margin-top: 8px;
+    margin-left: -25px;
+    cursor: pointer;
+}
+
+.hourstxt {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 12px;
+    color: #8E9BAE;
+    margin-left: 175px;
+    margin-top: 20px;
+}
+
+.pricetxt {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 12px;
+    color: #8E9BAE;
+    margin-left: 265px;
+    margin-top: 20px;
+}
+
+.maintxt {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 28px;
+    font-weight: bolder;
+    margin-left: 175px;
+    margin-top: 45px;
+    cursor: pointer;
+}
+
+.durationtxt {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 12px;
+    color: #8E9BAE;
+    margin-left: 175px;
+    margin-top: 88px;
+}
+
+.specialtxt {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: bolder;
+    color: #3F7C66;
+    font-size: 12px;
+    margin-left: 175px;
+    margin-top: 120px;
+}
+
+.circle {
+    position: absolute;
+    border-radius: 50%;
+    background-color: #8E9BAE;
+    width: 5px;
+    height: 5px;
+    margin-left: 242.7px;
+    margin-top: 25px;
+    opacity: 50%;
+}
+
+.newcourses {
+    position: absolute;
+    border-radius: 25px;
+    background-color: #ECF1FC;
+    width: 200px;
+    height: 200px;
+    margin-top: -375px;
+    margin-left: 1375px;
+    background: linear-gradient(180deg, #ffcb1f, #ffbd5b);
+    cursor: pointer;
+}
+
+.newtutors {
+    position: absolute;
+    border-radius: 25px;
+    background-color: #ECF1FC;
+    width: 200px;
+    height: 200px;
+    margin-top: -375px;
+    margin-left: 1600px;
+    background: linear-gradient(45deg, #80fff4, #007ec7);
+    cursor: pointer;
+}
+
+.txtnewcourses {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: 68px;
+    background: linear-gradient(45deg, #ebf747, #ffd138);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 64px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.txtnewcourses2 {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 12px;
+    color: #fcf822;
+    margin-left: 62.5px;
+    margin-top: 130px;
+    cursor: pointer;
+}
+
+.txtnewtutors {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: bolder;
+    font-size: 68px;
+    margin-left: 62.5px;
+    margin-top: 50px;
+    cursor: pointer;
+    background: linear-gradient(15deg, #537fc7 44%, #6700dd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.txtnewtutors2 {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 12px;
+    color: #6f95ce;
+    margin-left: 67.5px;
+    margin-top: 130px;
+    cursor: pointer;
+}
+
+.UIWMcourse {
+    position: absolute;
+    border-radius: 25px;
+    background-color: #F1F9FF;
+    width: 425px;
+    height: 200px;
+    margin-top: -145px;
+    margin-left: 1375px;
+}
+
+
+.UIWMbox {
+    position: absolute;
+    border-radius: 25px;
+    background: #DEF1FF;
+    width: 175px;
+    height: 175px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.UIWM {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 130px;
+}
+
+.UWIMmain {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 28px;
+    margin-top: 70px;
+    margin-left: 210px;
+}
+
+.hourstxt2 {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 12px;
+    color: #8E9BAE;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+
+.pricetxt2 {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 12px;
+    color: #8E9BAE;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.durationtxt2 {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 12px;
+    color: #8E9BAE;
+    margin-left: 210px;
+    margin-top: 115px;
+}
+
+.specialtxt2 {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: bolder;
+    color: #3F7C66;
+    margin-left: 210px;
+    margin-top: 150px;
+}
+
+.circle2 {
+    position: absolute;
+    border-radius: 50%;
+    background-color: #8E9BAE;
+    width: 5px;
+    height: 5px;
+    margin-left: 277.5px;
+    margin-top: 55px;
+    opacity: 50%;
+}
+
+.Goals {
+    position: absolute;
+    border-radius: 25px;
+    background-color: #FDF2FF;
+    width: 279px;
+    height: 182px;
+    margin-top: -775px;
+    margin-left: 475px;
+}
+
+.GoalsIcon {
+    position: absolute;
+    width: 17.51px;
+    height: 24.1px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.GoalsStatus {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: lighter;
+    font-size: 28px;
+    color: #10192D;
+    opacity: 40%;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.ManageGoals {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: SemiBold;
+    font-size: 12px;
+    color: #503094;
+    margin-left: 175px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.Goalstxt {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 12px;
+    margin-left: 22.5px;
+    margin-top: 120px;
+}
+
+.percentage {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 12px;
+    margin-left: 230px;
+    margin-top: 120px;
+}
+
+.ProgressBar {
+    position: absolute;
+    width: 239px;
+    height: 10px;
+    margin-left: 19px;
+    margin-top: 145px;
+}
+
+.IllustratorTips {
+    position: absolute;
+    width: 500px;
+    height: 441px;
+    border-radius: 25px;
+    background-color: #ECF1FC;
+    margin-top: -775px;
+    margin-left: 775px;
+}
+
+.paginationnumb4 {
+    margin-left: 25px;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+    opacity: 40%;
+    cursor: pointer;
+}
+
+.paginationnumb3 {
+    margin-left: 25px;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    opacity: 40%;
+    cursor: pointer;
+}
+
+.paginationnumb2 {
+    margin-left: 25px;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    color: #503094;
+    cursor: pointer;
+}
+
+.paginationnumb1 {
+    margin-top: 0px;
+    margin-left: 25px;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 18px;
+    opacity: 40%;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.Ill-title {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 25px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.Ill-desc {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: lighter;
+    font-size: 16px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.decorate {
+    position: absolute;
+    margin-top: -183px;
+    margin-left: 320px;
+    width: 180px;
+    border-radius: 25px;
+}
+
+.people-enrolled {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 500;
+    margin-left: 30px;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+.more-users {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 14px;
+    opacity: 40%;
+    margin-top: 196px;
+    margin-left: 240px;
+    cursor: pointer;
+}
+
+.user-one {
+    position: absolute;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 190px;
+}
+
+.user-two {
+    position: absolute;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-top: 190px;
+}
+
+.user-three {
+    position: absolute;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 110px;
+    margin-top: 190px;
+}
+
+.user-four {
+    position: absolute;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-top: 190px;
+}
+
+.user-five {
+    position: absolute;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 190px;
+    margin-top: 190px;
+}
+
+.options {
+    position: absolute;
+    border-radius: 25px;
+    background-color: #ECF9FF;
+    width: 279px;
+    height: 234px;
+    margin-top: -575px;
+    margin-left: 475px;
+}
+
+.g-ico {
+    position: absolute;
+    width: 50px;
+    margin-left: 15px;
+    margin-top: 17.5px;
+}
+
+.title-opt-goal {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 90px;
+    margin-top: 32.5px;
+}
+
+.button-goal {
+    position: absolute;
+    border-radius: 15px;
+    background-color: #ffffff;
+    width: 40px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 210px;
+    cursor: pointer;
+}
+
+.arrow1 {
+    position: absolute;
+    font-family: Manrope;
+    margin-top: 8px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.mp-ico {
+    position: absolute;
+    width: 50px;
+    margin-left: 15px;
+    margin-top: 90px;
+}
+
+.title-opt-mp {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 90px;
+    margin-top: 104px;
+}
+
+.button-mp {
+    position: absolute;
+    border-radius: 15px;
+    background-color: #ffffff;
+    width: 40px;
+    height: 40px;
+    margin-top: 97.5px;
+    margin-left: 210px;
+    cursor: pointer;
+}
+
+.arrow2 {
+    position: absolute;
+    font-family: Manrope;
+    margin-top: 8px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.setting-ico {
+    position: absolute;
+    width: 50px;
+    margin-left: 15px;
+    margin-top: 163px;
+}
+
+.title-opt-settings {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 90px;
+    margin-top: 177.5px;
+}
+
+.button-settings {
+    position: absolute;
+    border-radius: 15px;
+    background-color: #ffffff;
+    width: 40px;
+    height: 40px;
+    margin-top: 170px;
+    margin-left: 210px;
+    cursor: pointer;
+}
+
+.arrow3 {
+    position: absolute;
+    font-family: Manrope;
+    margin-top: 8px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.Title-Footer {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: -250px;
+    margin-left: 500px;
+
+}
+
+.Anglea {
+    position: absolute;
+    border-radius: 25px;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.13);
+    width: 350px;
+    height: 80px;
+    margin-top: -200px;
+    margin-left: 500px;
+}
+
+.Mike {
+    position: absolute;
+    border-radius: 25px;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.13);
+    width: 350px;
+    height: 80px;
+    margin-top: -200px;
+    margin-left: 900px;
+}
+
+.John {
+    position: absolute;
+    border-radius: 25px;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.13);
+    width: 350px;
+    height: 80px;
+    margin-top: -75px;
+    margin-left: 500px;
+}
+
+.Michelle {
+    position: absolute;
+    border-radius: 25px;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.13);
+    width: 350px;
+    height: 80px;
+    margin-top: -75px;
+    margin-left: 900px;
+}
+
+.tutor1 {
+    position: absolute;
+    width: 55px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.tutor2 {
+    position: absolute;
+    width: 55px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.tutor3 {
+    position: absolute;
+    width: 55px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.tutor4 {
+    position: absolute;
+    width: 55px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.name1 {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.name2 {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.name3 {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.name4 {
+    position: absolute;
+    font-family: Manrope;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.mailimg {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+.buttontutor1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 275px;
+    border-radius: 50%;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.44);
+    cursor: pointer;
+}
+
+.buttontutor2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 275px;
+    border-radius: 50%;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.44);
+    cursor: pointer;
+}
+
+
+.buttontutor3 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 275px;
+    border-radius: 50%;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.44);
+    cursor: pointer;
+}
+
+
+.buttontutor4 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 275px;
+    border-radius: 50%;
+    box-shadow: 0px 11px 27px -8px rgba(0, 0, 0, 0.44);
+    cursor: pointer;
+}
+
